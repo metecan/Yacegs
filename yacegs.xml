@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Yacegs">
+  <!--
+       !
+       !
+       ^
+      / \
+     /___\
+    |=   =|
+    |     |   
+    |  K  |     This theme made by Metecan K.
+    |  O  |     Thanks for using Yacegs theme.
+    |  D  |     Have a nice coding. 🚀
+    |  M  |
+    |  O  |     Contact me: https://metecan.dev
+    |  S  |
+    |     |           
+    |     |
+   /|##!##|\
+  / |##!##| \
+ /  |##!##|  \
+|  / ^ | ^ \  |
+| /  ( | )  \ |
+|/   ( | )   \|
+    ((   ))
+   ((  :  ))
+   ((  :  ))
+    ((   ))
+     (( ))
+      ( )
+       .
+       .
+       .
+ -->
+  <style name="Text" foreground="#c2cfff" background="#232323"/>
+  <style name="Extra" foreground="#95A5A6" background="#232323"/>
+  <style name="Selection" background="#555577"/>
+  <style name="CurrentLine" background="#161616"/>
+  <style name="MatchBrackets" foreground="#404040" background="#808080" />
+  <style name="IndentLine" foreground="#3c3c3c"/>
+  <style name="VisualWhitespace" foreground="#F75C4C"/>
+  <style name="Keyword" foreground="#F3825B"/>
+  <style name="DataType" foreground="#81ecec" /> 
+  <style name="Decimal" foreground="#00cec9"/>
+  <style name="BaseN" foreground="#00cec9"/>
+  <style name="Float" foreground="#00cec9"/>
+  <style name="Char" foreground="#FFCF4B"/>
+  <style name="String" foreground="#FFCF4B"/>
+  <style name="Comment" foreground="#7F8C8D"/>
+  <style name="Alert" foreground="#D87400"/>
+  <style name="Error" foreground="#F75C4C"/>
+  <style name="Function" foreground="#fdcb6e"/>
+  <style name="RegionMarker" foreground="#fab1a0"/>
+  <style name="Symbol" foreground="#FFCF4B"/>  
+  <style name="BuiltinFunc" foreground="#fda76e"/>
+  <style name="Predeclared" foreground="#81ecec"/>
+  <style name="FuncDecl" foreground="#fdcb6e"/>
+  <style name="Placeholder" foreground="#F75C4C"/>
+  <style name="ToDo" foreground="#0077C0" bold="true"/>
+</style-scheme>
